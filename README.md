@@ -2,7 +2,8 @@
 
 1.Uncaught TypeError: Cannot read property '_currentElement' of null
 ```
-missing element source import/require.
+* missing element source import/require.
+* babel compilation error in the module you are trying to import
 ```
 
 2.UncaughtError: Cannot find module <module_path>
